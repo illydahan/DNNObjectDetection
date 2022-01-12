@@ -1,0 +1,7 @@
+data/
+__pycache__/
+get_ds/
+images/
+car_border.mp4
+overfit.pth.tar
+yolo_weights_2
